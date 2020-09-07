@@ -1,6 +1,11 @@
 Release notes
 #############
 
+Version 1.0.19
+==============
+
+- Change: in some conditions, the jiragetfields custom command may not generate values for the report Get fields description, this release provides an updated version with arguments, and two versions of the report
+
 Version 1.0.18
 ==============
 
